@@ -1,1 +1,2 @@
 "Building a new feature." 
+"This is a example for building a feature"
